@@ -13,3 +13,8 @@ Upload `EMS_T5base_Colab.ipynb` to [colab.research.google.com](https://colab.res
 
 
 Training takes approximately 2 hours. The best model checkpoint saves automatically.
+
+Dataset: Derived from the 2024 NEMSIS Public-Release Research Dataset. Request access at [nemsis.org](https://nemsis.org/using-ems-data/request-research-data/)
+
+
+Authors: Kasvi Singh and Sahil Chhabra — Yale University
